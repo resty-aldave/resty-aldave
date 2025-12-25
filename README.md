@@ -20,7 +20,7 @@
       <td valign="top" width="50%">
         <h3 align="center">📊 GitHub Stats</h3>
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=resty-aldave&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="Resty's GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=resty-aldave&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" alt="Resty's GitHub Stats" />
           <br/>
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=resty-aldave&theme=tokyonight&hide_border=true" alt="Resty's Streak" />
         </div>
@@ -47,6 +47,12 @@
   </table>
 
   <br/>
+
+  <!-- Recent Activity Graph -->
+  <h3>📈 Recent Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=resty-aldave&theme=tokyo-night&hide_border=true" alt="Resty's Activity Graph" />
+
+  <br/><br/>
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resty-aldave&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
